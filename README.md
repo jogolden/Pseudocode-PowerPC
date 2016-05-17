@@ -3,6 +3,8 @@ An IDA plugin to generate pseudo C/C++ code for the PowerPC processor architectu
 This is an old project from like 2014 but if I recall correctly I used Visual Studios 2010 and IDA 6.3 ?
 I had a lot of trouble formatting the new tab created in IDA, if you expand on this and add a nice text view please contact me! 
 
+Youness Alaoui did alot of the original heavy lifting with his project so many thanks to him!
+
 # Supported Instructions
 add
 addi
