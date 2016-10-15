@@ -1,5 +1,5 @@
 // Originally created by Youness Alaoui
-// Pseudo code generation by imGol2den
+// Pseudo code generation by xemio (also known as golden)
 
 #include "ida.hpp"
 #include "engine.hpp"
